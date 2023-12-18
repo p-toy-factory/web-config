@@ -1,0 +1,14 @@
+{
+	"name": "@pinkchampagne/tsconfig",
+	"version": "1.0.0",
+	"description": "",
+	"author": "pinkchampagne",
+	"license": "MIT",
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"peerDependencies": {
+		"typescript": ">=5"
+	}
+}

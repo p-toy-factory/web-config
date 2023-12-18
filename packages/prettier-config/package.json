@@ -1,0 +1,9 @@
+{
+	"name": "@pinkchampagne/prettier-config",
+	"version": "1.0.0",
+	"main": "index.cjs",
+	"license": "MIT",
+	"author": "pinkchampagne",
+	"description": "",
+	"private": false
+}
